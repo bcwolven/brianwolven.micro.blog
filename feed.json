@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://brianwolven.micro.blog/2023/05/23/i-know-this.html",
+				
+				"content_html": "<p>I know this is <em>supposed</em> to be a composite image of M16/Eagle Nebula/Pillars of Creation using data from Chandra &amp; the Just Wonderful Space Telescope, but my brain interprets it as a clowder of AI-generated Siamese cats chasing laser pointer dots through space.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I know this is _supposed_ to be a composite image of M16/Eagle Nebula/Pillars of Creation using data from Chandra & the Just Wonderful Space Telescope, but my brain interprets it as a clowder of AI-generated Siamese cats chasing laser pointer dots through space.\n\n<img src=\"uploads/2023/d6d41b9004.jpg\" alt=\"Composite image of M16/Eagle Nebula/Pillars of Creation combining data from Chandra (x-ray, many small red and pink dots) and the Just Wonderful Space Telescope (infrared/optical, the “conventional” view).\" title=\"chandrawebb2_m16_comp.jpg\" border=\"0\" width=\"864\" height=\"814\" />\n",
+				"date_published": "2023-05-23T23:58:03-04:00",
+				"url": "https://wolven.us/2023/05/23/i-know-this.html",
+				"tags": ["cats","astrophysics"]
+			},
+			{
 				"id": "http://brianwolven.micro.blog/2023/04/25/finished-reading-oryx.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781400078981\">Oryx and Crake</a> by Margaret Atwood 📚</p>\n",
