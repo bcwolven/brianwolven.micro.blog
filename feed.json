@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://brianwolven.micro.blog/2023/06/13/finished-reading-a.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250236227\">A Psalm for the Wild-Built</a> by Becky Chambers 📚</p>\n",
+				"content_text": "Finished reading: [A Psalm for the Wild-Built](https://micro.blog/books/9781250236227) by Becky Chambers 📚\n",
+				"date_published": "2023-06-13T19:35:19-04:00",
+				"url": "https://wolven.us/2023/06/13/finished-reading-a.html"
+			},
+			{
 				"id": "http://brianwolven.micro.blog/2023/05/23/i-know-this.html",
 				
 				"content_html": "<p>I know this is <em>supposed</em> to be a composite image of M16/Eagle Nebula/Pillars of Creation using data from Chandra &amp; the Just Wonderful Space Telescope, but my brain interprets it as a clowder of AI-generated Siamese cats chasing laser pointer dots through space.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I know this is _supposed_ to be a composite image of M16/Eagle Nebula/Pillars of Creation using data from Chandra & the Just Wonderful Space Telescope, but my brain interprets it as a clowder of AI-generated Siamese cats chasing laser pointer dots through space.\n\n<img src=\"uploads/2023/d6d41b9004.jpg\" alt=\"Composite image of M16/Eagle Nebula/Pillars of Creation combining data from Chandra (x-ray, many small red and pink dots) and the Just Wonderful Space Telescope (infrared/optical, the “conventional” view).\" title=\"chandrawebb2_m16_comp.jpg\" border=\"0\" width=\"864\" height=\"814\" />\n",
+				"content_text": "I know this is _supposed_ to be a composite image of M16/Eagle Nebula/Pillars of Creation using data from Chandra & the Just Wonderful Space Telescope, but my brain interprets it as a clowder of AI-generated Siamese cats chasing laser pointer dots through space.\n\n<img src=\"uploads/2023/d6d41b9004.jpg\" alt=\"Composite image of M16/Eagle Nebula/Pillars of Creation combining data from Chandra (x-ray, many small red and pink dots) and the Just Wonderful Space Telescope (infrared/optical, the 'conventional' view).\" title=\"chandrawebb2_m16_comp.jpg\" border=\"0\" width=\"864\" height=\"814\" />\n",
 				"date_published": "2023-05-23T23:58:03-04:00",
 				"url": "https://wolven.us/2023/05/23/i-know-this.html",
 				"tags": ["cats","astrophysics"]
@@ -21,7 +29,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781400078981\">Oryx and Crake</a> by Margaret Atwood 📚</p>\n",
 				"content_text": "Finished reading: [Oryx and Crake](https://micro.blog/books/9781400078981) by Margaret Atwood 📚\n",
 				"date_published": "2023-04-25T20:35:59-04:00",
-				"url": "https://wolven.us/2023/04/25/finished-reading-oryx.html"
+				"url": "https://wolven.us/2023/04/25/finished-reading-oryx.html",
+				"tags": ["books"]
 			},
 			{
 				"id": "http://brianwolven.micro.blog/2023/04/25/203546.html",
@@ -29,7 +38,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780812994735\">The Bone Clocks: A Novel</a> by David Mitchell 📚</p>\n",
 				"content_text": "Finished reading: [The Bone Clocks: A Novel](https://micro.blog/books/9780812994735) by David Mitchell 📚\n",
 				"date_published": "2023-04-25T20:35:46-04:00",
-				"url": "https://wolven.us/2023/04/25/203546.html"
+				"url": "https://wolven.us/2023/04/25/203546.html",
+				"tags": ["books"]
 			},
 			{
 				"id": "http://brianwolven.micro.blog/2023/04/25/finished-reading-the.html",
@@ -37,7 +47,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780812976366\">The Thousand Autumns of Jacob de Zoet</a> by David Mitchell 📚</p>\n",
 				"content_text": "Finished reading: [The Thousand Autumns of Jacob de Zoet](https://micro.blog/books/9780812976366) by David Mitchell 📚\n",
 				"date_published": "2023-04-25T20:35:34-04:00",
-				"url": "https://wolven.us/2023/04/25/finished-reading-the.html"
+				"url": "https://wolven.us/2023/04/25/finished-reading-the.html",
+				"tags": ["books"]
 			},
 			{
 				"id": "http://brianwolven.micro.blog/2023/04/25/finished-reading-green.html",
@@ -45,7 +56,8 @@
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780553898286\">Green Mars</a> by Kim Stanley Robinson 📚</p>\n",
 				"content_text": "Finished reading: [Green Mars](https://micro.blog/books/9780553898286) by Kim Stanley Robinson 📚\n",
 				"date_published": "2023-04-25T20:35:10-04:00",
-				"url": "https://wolven.us/2023/04/25/finished-reading-green.html"
+				"url": "https://wolven.us/2023/04/25/finished-reading-green.html",
+				"tags": ["books"]
 			},
 			{
 				"id": "http://brianwolven.micro.blog/2023/04/25/finished-reading-blue.html",
@@ -83,7 +95,7 @@
 				"id": "http://brianwolven.micro.blog/2023/04/13/imagine-that-skrillex.html",
 				"title": "ElectroSwing",
 				"content_html": "<p>Imagine that Skrillex was transported back in time to a Prohibition-era speakeasy and landed the DJ job.</p>\n<p>Yeah. It’s like that. Love this track.</p>\n<p><a href=\"https://music.apple.com/us/album/mist-you/1325205437?i=1325205623\">music.apple.com/us/album/&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Imagine that Skrillex was transported back in time to a Prohibition-era speakeasy and landed the DJ job.\n\nYeah. It’s like that. Love this track. \n\n[music.apple.com/us/album/...](https://music.apple.com/us/album/mist-you/1325205437?i=1325205623) \n\n<img src=\"uploads/2023/9370ec5ad3.png\" width=\"276\" height=\"600\" alt=\"\">\n",
+				"content_text": "Imagine that Skrillex was transported back in time to a Prohibition-era speakeasy and landed the DJ job.\n\nYeah. It’s like that. Love this track. \n\n[music.apple.com/us/album/...](https://music.apple.com/us/album/mist-you/1325205437?i=1325205623) \n\n<img src=\"https://brianwolven.micro.blog/uploads/2023/9370ec5ad3.png\" width=\"276\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-13T13:57:14-04:00",
 				"url": "https://wolven.us/2023/04/13/imagine-that-skrillex.html",
 				"tags": ["music"]
@@ -101,7 +113,7 @@
 				"id": "http://brianwolven.micro.blog/2023/04/13/we-are-serious.html",
 				
 				"content_html": "<p>We are serious people. So serious.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We are serious people. So serious. \n\n<img src=\"uploads/2023/15bd25879b.jpg\" />\n",
+				"content_text": "We are serious people. So serious. \n\n<img src=\"https://brianwolven.micro.blog/uploads/2023/15bd25879b.jpg\" />\n",
 				"date_published": "2023-04-13T03:48:18-04:00",
 				"url": "https://wolven.us/2023/04/13/we-are-serious.html",
 				"tags": ["personal"]
@@ -110,7 +122,7 @@
 				"id": "http://brianwolven.micro.blog/2023/04/13/test.html",
 				"title": "Niblet the Beaver",
 				"content_html": "<p>This is Niblet the Beaver from the SOMA chocolatemakers in Toronto. Niblet was absolutely delicious. Do check him out if you have the urge to eat a beaver.</p>\n<p><a href=\"https://www.somachocolate.com/collections/easter/products/niblet-the-baby-beaver?variant=43194448281767\">www.somachocolate.com/collectio&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is Niblet the Beaver from the SOMA chocolatemakers in Toronto. Niblet was absolutely delicious. Do check him out if you have the urge to eat a beaver.\n\n[www.somachocolate.com/collectio...](https://www.somachocolate.com/collections/easter/products/niblet-the-baby-beaver?variant=43194448281767)\n\n<img src=\"uploads/2023/8b3fc42078.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n",
+				"content_text": "This is Niblet the Beaver from the SOMA chocolatemakers in Toronto. Niblet was absolutely delicious. Do check him out if you have the urge to eat a beaver.\n\n[www.somachocolate.com/collectio...](https://www.somachocolate.com/collections/easter/products/niblet-the-baby-beaver?variant=43194448281767)\n\n<img src=\"https://brianwolven.micro.blog/uploads/2023/8b3fc42078.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n",
 				"date_published": "2023-04-13T03:09:36-04:00",
 				"url": "https://wolven.us/2023/04/13/test.html",
 				"tags": ["chocolate"]
@@ -119,7 +131,7 @@
 				"id": "http://brianwolven.micro.blog/2023/04/13/testing-is-this.html",
 				
 				"content_html": "<p>Testing&hellip; is this thing on? Maybe I&rsquo;ll just post a couple of photos of Budgie Smuggler to see how they display.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Testing... is this thing on? Maybe I'll just post a couple of photos of Budgie Smuggler to see how they display.\n\n<img src=\"uploads/2023/b508273dbd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n<img src=\"uploads/2023/b1112ef102.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Testing... is this thing on? Maybe I'll just post a couple of photos of Budgie Smuggler to see how they display.\n\n<img src=\"https://brianwolven.micro.blog/uploads/2023/b508273dbd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n<img src=\"https://brianwolven.micro.blog/uploads/2023/b1112ef102.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2023-04-13T02:37:55-04:00",
 				"url": "https://wolven.us/2023/04/13/testing-is-this.html",
 				"tags": ["cats"]
